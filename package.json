@@ -1,0 +1,22 @@
+{
+  "name": "os-modules",
+  "version": "1.0.0",
+  "description": "practical 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axy1976/NodeJS-Oprating-System.git"
+  },
+  "author": "akshay jangir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axy1976/NodeJS-Oprating-System/issues"
+  },
+  "homepage": "https://github.com/axy1976/NodeJS-Oprating-System#readme",
+  "dependencies": {
+    "os": "^0.1.2"
+  }
+}
